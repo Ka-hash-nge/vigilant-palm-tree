@@ -1,0 +1,14 @@
+*.log
+*.tmp
+*.bak
+*.old
+*.sqlite
+*.sqlite3
+*.db
+.env
+.env.*
+crashDumps/
+logs/
+tmp/
+temp/
+userData/
